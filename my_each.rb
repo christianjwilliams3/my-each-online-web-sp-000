@@ -1,7 +1,7 @@
 def my_each(collection)
   while
-  i = 0
-    collection.collect do |i|
+  i = 1 
+    collection.collect do |word|
   i  
   end
   puts word
