@@ -1,6 +1,7 @@
 def my_each(collection)
-  while 
+  if block_given?
   i = 1 
+  
     collection.collect do |word|
   i  
   end
