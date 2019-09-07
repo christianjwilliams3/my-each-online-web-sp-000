@@ -1,5 +1,5 @@
 def my_each(collection)
-  while
+  while 
   i = 1 
     collection.collect do |word|
   i  
