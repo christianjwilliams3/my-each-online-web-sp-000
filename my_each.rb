@@ -1,4 +1,4 @@
-def my_each(collection)
+def my_each(array)
   if block_given?
     i = 1 
   while i > collection.length
