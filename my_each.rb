@@ -2,6 +2,6 @@ def my_each(collection)
   i = 1 
     collection do |i|
     end
-  puts(collection)  
+  puts i  
   end
 end
