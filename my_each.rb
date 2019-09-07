@@ -3,7 +3,7 @@ def my_each(array)
   while i > array.size
     block_given?
     yield(array[i])
-  i += 1
+  i += 0 
   end
   array
 end
